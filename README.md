@@ -1,4 +1,6 @@
-ArtesanoAndroid
+#Alonso Ato Neyra
+##Artesano android
 
-![Embajador de GitKraken](./resources/GitKraken-Ambassador-Logo.png)
+<img src="./resources/GitKraken-Ambassador-Logo.png" width="300"  height= 300/>
+
 
